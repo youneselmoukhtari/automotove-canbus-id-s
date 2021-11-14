@@ -2,9 +2,6 @@
 
 My unpretentious attempt to collect info about CAN IDs and payloads for various car brands/models in one place.
 
-Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
-
-URL: https://github.com/iDoka/awesome-automotive-can-id
 
 ## Content
 
@@ -330,10 +327,6 @@ temporaly unsorted:
 
 ---
 
-
-## etc
-
-Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
 
 ## Tags
